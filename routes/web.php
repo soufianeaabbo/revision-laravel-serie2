@@ -29,3 +29,9 @@ Route::get('/age', function () {
     return view('age');
 });
 
+Route::get('/template', function () {
+    return view('template');
+});
+
+
+

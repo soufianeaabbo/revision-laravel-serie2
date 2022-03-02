@@ -11,6 +11,7 @@
     <a href="nom">nom</a>
     <a href="/prenom">prenom</a>
     <a href="/age">age</a>
+    <a href="/template">template</a>
     
     <script src="{{asset('js/app.js')}}"></script>
 </body>
